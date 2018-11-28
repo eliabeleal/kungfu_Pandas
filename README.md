@@ -80,13 +80,13 @@ Pandas é uma biblioteca open source que fornece estruturas de dados de alto des
 * dentro da pasta de nosso minicurso, vamos clonar o repositório do github
 
 ```sh
-git clone https://github.com/elileal/kung_fu_Pandas
+git clone https://github.com/elileal/kungfu_Pandas
 ```
 
-* entre na pasta kung_fu_Pandas
+* entre na pasta kungfu_Pandas
 
 ```sh
-cd kung_fu_Pandas/
+cd kungfu_Pandas/
 ```
 
 * execute o seguinte comando:
@@ -101,7 +101,7 @@ Essa é a mesma saída do nosso _challenge one_, mas como seria o [code](HandsOn
 
 Antes de iniciarmos com o Pandas, precisamos instalar as bibliotecas e dependências para o nosso minicurso
 
-* dentro da pasta kung_fu_Pandas, abra o terminal e digite
+* dentro da pasta kungfu_Pandas, abra o terminal e digite
 
 ```sh
 pip install -r requirements.txt
