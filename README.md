@@ -162,6 +162,7 @@ agora você está no terminal do Python
 ```py
 >>> df.head(n=10)
 ```
+
 * valores únicos
 
 ```py
@@ -186,11 +187,11 @@ jupyter notebook
 
 * no canto superior direito, clique em _new_ e depois em _Python 3_
 
-* execute os próximos dois exemplos 
+* execute os próximos dois exemplos
 
 1. [matplotlib](HandsOn/HandsOn5_1.md)
 
-Antes de continuar, baixe esse [arquivo](https://drive.google.com/file/d/1UAOM6xkuiK5XBEed2load-yOvpvFgYSk/view?usp=sharing)
+    Antes de continuar, baixe esse [arquivo](https://drive.google.com/file/d/1UAOM6xkuiK5XBEed2load-yOvpvFgYSk/view?usp=sharing)
 
 2. [seaborn](HandsOn/HandsOn5_2.md) (Exemplo usado no Curso do professor Masanori)
 
@@ -201,4 +202,3 @@ De forma pytônica, [salvar](HandsOn/HandsOn6.md) seu DataFrame é tão simples 
 ## 7. Challenges
 
 Vamos praticar tudo que vimos até aqui com os [**DESAFIOS**](Desafios/desafios.md)
-
