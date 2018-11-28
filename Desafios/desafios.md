@@ -36,6 +36,6 @@ Saída esperada:
 
 Respostas
 
-[\[1-3]](Desafios/desafio_(dados).ipynb)
+[1-3](desafio_(dados).ipynb)
 
-[\[4-6]](https://github.com/neilprado/kung_fu_Pandas/blob/master/Desafios/response.md)
+[4-6](https://github.com/neilprado/kung_fu_Pandas/blob/master/Desafios/response.md)
