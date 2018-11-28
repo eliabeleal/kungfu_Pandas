@@ -107,9 +107,9 @@ Antes de iniciarmos com o Pandas, precisamos instalar as bibliotecas e dependên
 pip install -r requirements.txt
 ```
 
-### Com [Anaconda](https://www.anaconda.com/what-is-anaconda/)
+### [Anaconda](https://www.anaconda.com/what-is-anaconda/)
 
-**Com WGET para Python3:**
+O Anaconda é uma plataforma que auxilia na preparação do ambiente necessário para o trabalho com análise de dados e ciência de dados. Você pode acessar o site e baixar ou usar **wget**:
 
 32 bits version:
 
