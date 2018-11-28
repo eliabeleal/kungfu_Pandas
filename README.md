@@ -107,7 +107,35 @@ Antes de iniciarmos com o Pandas, precisamos instalar as bibliotecas e dependên
 pip install -r requirements.txt
 ```
 
-Caso prefira você pode instalar a [Anaconda](https://www.anaconda.com/what-is-anaconda/)
+### [Anaconda](https://www.anaconda.com/what-is-anaconda/)
+
+O Anaconda é uma plataforma que auxilia na preparação do ambiente necessário para o trabalho com análise de dados e ciência de dados. Que pode ser uma alternativa ao nosso _requirements_. Você pode acessar o site e baixar ou usar **wget**:
+
+32 bits version:
+
+```sh
+wget https://repo.anaconda.com/archive/Anaconda3-5.3.1-Linux-x86.sh
+```
+
+64 bits version
+
+```sh
+wget https://repo.anaconda.com/archive/Anaconda3-5.3.1-Linux-x86_64.sh
+```
+
+* execute
+
+32 bits:
+
+```sh
+bash Anaconda-5.3.1-Linux-x86.sh
+```
+
+64 bits:
+
+```sh
+bash Anaconda3-5.3.1-Linux-x86_64.sh
+```
 
 ## 3. Estrutura de dados base do Pandas
 
