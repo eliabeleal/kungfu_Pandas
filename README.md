@@ -202,3 +202,13 @@ De forma pytônica, [salvar](HandsOn/HandsOn6.md) seu DataFrame é tão simples 
 ## 7. Challenges
 
 Vamos praticar tudo que vimos até aqui com os [**DESAFIOS**](Desafios/desafios.md)
+
+## 8. Agradecimentos
+
+Ao professor [Fernando Masanori](https://about.me/fmasanori) pela palestra na Python Brasil\[14]. A grande inspiração desse minicurso.
+
+Ao professor [Luiz Carlos](https://github.com/lucachaves) por acreditar que esse minicurso seria possível.
+
+Ao meu amigo [Neil Prado](https://github.com/neilprado) por topar esse desafio
+
+Ao [IfTech](http://joaopessoa.ifpb.edu.br/iftech/) pela oportunidade de compartilhar esse apredizado 
