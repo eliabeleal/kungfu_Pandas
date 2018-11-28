@@ -71,7 +71,7 @@ deduplicate_stats('MUNICÍPIODERESIDÊNCIA == "JOINVILLE"')
 
 df['DESCRIÇÃODOPROCEDIMENTO'].value_counts().to_frame().head(10)
 
-df.query('DESCRIÇÃODOPROCEDIMENTO == "CONSULTA EM OFTALMOLOGIA - GERAL"')['MUNICÍPIODERESIDÊNCIA'].value_counts().to_frame().head(10)
+df.query("DESCRIÇÃODOPROCEDIMENTO" == "CONSULTA EM OFTALMOLOGIA - GERAL")['MUNICÍPIODERESIDÊNCIA'].value_counts().to_frame().head(10)
 
 """
 Pacientes de Canelinha, ao solicitar uma consulta em oftalmologia, são direcionadas a 4 centrais executantes diferentes, que possuem tempo de espera entre 34 e 417 dias. Sugestão: rotear as pessoas para centrais com menos pacientes.
