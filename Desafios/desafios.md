@@ -34,8 +34,4 @@ Saída esperada:
 
 ![Output](top10.png)
 
-Respostas
-
-[1-3](desafio_(dados).ipynb)
-
-[4-6](https://github.com/neilprado/kung_fu_Pandas/blob/master/Desafios/response.md)
+[Respostas](response.ipynb)
