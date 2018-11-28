@@ -109,7 +109,7 @@ pip install -r requirements.txt
 
 ### [Anaconda](https://www.anaconda.com/what-is-anaconda/)
 
-O Anaconda é uma plataforma que auxilia na preparação do ambiente necessário para o trabalho com análise de dados e ciência de dados. Você pode acessar o site e baixar ou usar **wget**:
+O Anaconda é uma plataforma que auxilia na preparação do ambiente necessário para o trabalho com análise de dados e ciência de dados. Que pode ser uma alternativa ao nosso _requirements_. Você pode acessar o site e baixar ou usar **wget**:
 
 32 bits version:
 
