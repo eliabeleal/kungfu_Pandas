@@ -221,7 +221,7 @@ jupyter notebook
 
     Antes de continuar, baixe esse [arquivo](https://drive.google.com/file/d/1UAOM6xkuiK5XBEed2load-yOvpvFgYSk/view?usp=sharing)
 
-2. [Exemplo usado no Curso do professor Masanori](exemploMasanori.ipynb)
+2. [Exemplo usado no Curso do professor Masanori](exemploMasanori.ipynb) _Creditos Larissa Lautert_
 
 ## 6. Salvando tudo
 
