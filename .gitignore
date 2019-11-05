@@ -2,7 +2,7 @@
 
 venv
 ### JupyterNotebook ###
-.ipynb_checkpoints
+.ipynb_checkpoints 
 */.ipynb_checkpoints/*
 
 # Remove previous ipynb_checkpoints
