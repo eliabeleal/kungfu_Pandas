@@ -1,4 +1,4 @@
-# Pandas
+# Curso básico de Pandas
 
 Análise de dados com Pandas
 
